@@ -1,0 +1,4 @@
+/home/jetson/tensorrtx/yolov5/build2/CMakeFiles/rebuild_cache.dir
+/home/jetson/tensorrtx/yolov5/build2/CMakeFiles/edit_cache.dir
+/home/jetson/tensorrtx/yolov5/build2/CMakeFiles/myplugins.dir
+/home/jetson/tensorrtx/yolov5/build2/CMakeFiles/yolov5.dir
